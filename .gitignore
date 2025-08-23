@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Python
+=======
+﻿# Python
+>>>>>>> dad1f27 (Add .gitignore to exclude secrets and local files)
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -16,6 +20,10 @@ ENV/
 .vscode/
 .idea/
 
+<<<<<<< HEAD
 # Mac / Windows Müll
+=======
+# OS
+>>>>>>> dad1f27 (Add .gitignore to exclude secrets and local files)
 .DS_Store
 Thumbs.db
